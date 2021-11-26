@@ -1,10 +1,10 @@
 [![thhusser 42 stats](https://badge42.herokuapp.com/api/stats/thhusser?privacyName=true&darkmode=true)](https://github.com/JaeSeoKim/badge42)
 
-| Project   | Final Score                       |
-|-----------| ----------------------------------|
-| Libft     |[![thhusser 42Project Score](https://badge42.herokuapp.com/api/project/thhusser/Libft)](https://github.com/JaeSeoKim/badge42)|
-| Ft_printf |[![thhusser 42Project Score](https://badge42.herokuapp.com/api/project/thhusser/ft_printf)](https://github.com/JaeSeoKim/badge42)|
-| Windows   | Alt+0+1+6+0                       |
+| Project         | Final Score                       |
+|---------------- | ----------------------------------|
+| Libft           |[![thhusser 42Project Score](https://badge42.herokuapp.com/api/project/thhusser/Libft)](https://github.com/JaeSeoKim/badge42)|
+| Ft_printf       |[![thhusser 42Project Score](https://badge42.herokuapp.com/api/project/thhusser/ft_printf)](https://github.com/JaeSeoKim/badge42)|
+| Get_next_line   | Alt+0+1+6+0                       |
 
 Libft final score : [![thhusser 42Project Score](https://badge42.herokuapp.com/api/project/thhusser/Libft)](https://github.com/JaeSeoKim/badge42)<br />
 Ft_printf final score : [![thhusser 42Project Score](https://badge42.herokuapp.com/api/project/thhusser/ft_printf)](https://github.com/JaeSeoKim/badge42)<br />
