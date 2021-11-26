@@ -1,5 +1,6 @@
 #[![thhusser 42 stats](https://badge42.herokuapp.com/api/stats/thhusser?privacyName=true&darkmode=true)](https://github.com/JaeSeoKim/badge42)
 
+[![thhusser 42Project Score](https://badge42.herokuapp.com/api/project/thhusser/libft)](https://github.com/JaeSeoKim/badge42)
 
 <!--
 ### Hi there 👋
