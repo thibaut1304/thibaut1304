@@ -4,15 +4,11 @@
 |---------------- | ----------------------------------|
 | Libft           |[![thhusser 42Project Score](https://badge42.herokuapp.com/api/project/thhusser/Libft)](https://github.com/JaeSeoKim/badge42)|
 | Ft_printf       |[![thhusser 42Project Score](https://badge42.herokuapp.com/api/project/thhusser/ft_printf)](https://github.com/JaeSeoKim/badge42)|
-| Get_next_line   | Alt+0+1+6+0                       |
-
-Libft final score : [![thhusser 42Project Score](https://badge42.herokuapp.com/api/project/thhusser/Libft)](https://github.com/JaeSeoKim/badge42)<br />
-Ft_printf final score : [![thhusser 42Project Score](https://badge42.herokuapp.com/api/project/thhusser/ft_printf)](https://github.com/JaeSeoKim/badge42)<br />
-Get_next_line final score : [![thhusser 42Project Score](https://badge42.herokuapp.com/api/project/thhusser/get_next_line)](https://github.com/JaeSeoKim/badge42)<br />
-Push_swap     final score : [![thhusser 42Project Score](https://badge42.herokuapp.com/api/project/thhusser/push_swap)](https://github.com/JaeSeoKim/badge42)<br />
-Pipex         final score : [![thhusser 42Project Score](https://badge42.herokuapp.com/api/project/thhusser/pipex)](https://github.com/JaeSeoKim/badge42)<br />
-So_long       final score : [![thhusser 42Project Score](https://badge42.herokuapp.com/api/project/thhusser/so_long)](https://github.com/JaeSeoKim/badge42)<br />
-Philosophers  final score : [![thhusser 42Project Score](https://badge42.herokuapp.com/api/project/thhusser/Philosophers)](https://github.com/JaeSeoKim/badge42)<br />
+| Get_next_line   |[![thhusser 42Project Score](https://badge42.herokuapp.com/api/project/thhusser/get_next_line)](https://github.com/JaeSeoKim/badge42)|
+| Push_swap       |[![thhusser 42Project Score](https://badge42.herokuapp.com/api/project/thhusser/push_swap)](https://github.com/JaeSeoKim/badge42)|
+| Pipex           |[![thhusser 42Project Score](https://badge42.herokuapp.com/api/project/thhusser/pipex)](https://github.com/JaeSeoKim/badge42)|
+| So_long         |[![thhusser 42Project Score](https://badge42.herokuapp.com/api/project/thhusser/so_long)](https://github.com/JaeSeoKim/badge42)|
+| Philosophers    |[![thhusser 42Project Score](https://badge42.herokuapp.com/api/project/thhusser/Philosophers)](https://github.com/JaeSeoKim/badge42)|
 
 <!--
 ### Hi there 👋
