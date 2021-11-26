@@ -1,9 +1,8 @@
 [![thhusser 42 stats](https://badge42.herokuapp.com/api/stats/thhusser?privacyName=true&darkmode=true)](https://github.com/JaeSeoKim/badge42)
 
 
-### Hi there 👋
-
 <!--
+### Hi there 👋
 **thibaut1304/thibaut1304** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
