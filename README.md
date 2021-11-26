@@ -1,9 +1,12 @@
 [![thhusser 42 stats](https://badge42.herokuapp.com/api/stats/thhusser?privacyName=true&darkmode=true)](https://github.com/JaeSeoKim/badge42)
 
-[![thhusser 42Project Score](https://badge42.herokuapp.com/api/project/thhusser/Libft)](https://github.com/JaeSeoKim/badge42)
+[![thhusser 42Project Score](https://badge42.herokuapp.com/api/project/thhusser/Libft)](https://github.com/JaeSeoKim/badge42)\n
 [![thhusser 42Project Score](https://badge42.herokuapp.com/api/project/thhusser/ft_printf)](https://github.com/JaeSeoKim/badge42)
 [![thhusser 42Project Score](https://badge42.herokuapp.com/api/project/thhusser/get_next_line)](https://github.com/JaeSeoKim/badge42)
-[![thhusser 42Project Score](https://badge42.herokuapp.com/api/project/thhusser/ft_serveur)](https://github.com/JaeSeoKim/badge42)
+[![thhusser 42Project Score](https://badge42.herokuapp.com/api/project/thhusser/push_swap)](https://github.com/JaeSeoKim/badge42)
+[![thhusser 42Project Score](https://badge42.herokuapp.com/api/project/thhusser/pipex)](https://github.com/JaeSeoKim/badge42)
+[![thhusser 42Project Score](https://badge42.herokuapp.com/api/project/thhusser/so_long)](https://github.com/JaeSeoKim/badge42)
+[![thhusser 42Project Score](https://badge42.herokuapp.com/api/project/thhusser/philosophers)](https://github.com/JaeSeoKim/badge42)
 
 <!--
 ### Hi there 👋
