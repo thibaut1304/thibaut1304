@@ -11,6 +11,10 @@
 | Philosophers    |[![thhusser 42Project Score](https://badge42.herokuapp.com/api/project/thhusser/Philosophers)](https://github.com/JaeSeoKim/badge42)|
 | Cub3D           |![Image in progress](https://progress-bar.dev/80/)|
 
+
+[![thhusser 42 stats](https://badge42.herokuapp.com/api/stats/thhusser?cursus=C%20Piscine)](https://github.com/JaeSeoKim/badge42)
+
+
 <!--
 ### Hi there 👋
 **thibaut1304/thibaut1304** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
