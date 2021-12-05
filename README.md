@@ -12,6 +12,8 @@
 | Cub3D           |![Image in progress](https://progress-bar.dev/80/)|
 
 
+
+
 [![thhusser 42 stats](https://badge42.herokuapp.com/api/stats/thhusser?privacyName=true&darkmode=true&cursus=C%20Piscine)](https://github.com/JaeSeoKim/badge42)
 
 
