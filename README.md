@@ -10,6 +10,8 @@
 | So_long         |[![thhusser 42Project Score](https://badge42.herokuapp.com/api/project/thhusser/so_long)](https://github.com/JaeSeoKim/badge42)|
 | Philosophers    |[![thhusser 42Project Score](https://badge42.herokuapp.com/api/project/thhusser/Philosophers)](https://github.com/JaeSeoKim/badge42)|
 | Cub3D           |![Image in progress](https://progress-bar.dev/80/)|
+
+
 &nbsp;&nbsp;&nbsp;
 [![thhusser 42 stats](https://badge42.herokuapp.com/api/stats/thhusser?privacyName=true&darkmode=true&cursus=C%20Piscine)](https://github.com/JaeSeoKim/badge42)
 
