@@ -12,7 +12,12 @@
 | Cub3D           |![Image in progress](https://progress-bar.dev/99/)|
 | MiniShell       |[![thhusser 42Project Score](https://badge42.herokuapp.com/api/project/thhusser/minishell)](https://github.com/JaeSeoKim/badge42)|
 
-
+| Exam            | Final Score   |
+|---------------- | --------------|
+| Exam 02         |[![thhusser 42Project Score](https://badge42.herokuapp.com/api/project/thhusser/Exam\ Rank\ 02)](https://github.com/JaeSeoKim/badge42)|
+<!-- | Exan 01         |[![thhusser 42Project Score](https://badge42.herokuapp.com/api/project/thhusser/Philosophers)](https://github.com/JaeSeoKim/badge42)| -->
+<!-- | Exam 02         |[![thhusser 42Project Score](https://badge42.herokuapp.com/api/project/thhusser/Philosophers)](https://github.com/JaeSeoKim/badge42)| -->
+<!-- | Exam 03         |[![thhusser 42Project Score](https://badge42.herokuapp.com/api/project/thhusser/Philosophers)](https://github.com/JaeSeoKim/badge42)| -->
 </br>
 </br>
 </br>
