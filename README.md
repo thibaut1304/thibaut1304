@@ -10,7 +10,7 @@
 | So_long         |[![thhusser 42Project Score](https://badge42.herokuapp.com/api/project/thhusser/so_long)](https://github.com/JaeSeoKim/badge42)|
 | Philosophers    |[![thhusser 42Project Score](https://badge42.herokuapp.com/api/project/thhusser/Philosophers)](https://github.com/JaeSeoKim/badge42)|
 | Cub3D           |![Image in progress](https://progress-bar.dev/99/)|
-| MiniShell       |![Image in progress](https://progress-bar.dev/99/)|
+| MiniShell       |[![thhusser 42Project Score](https://badge42.herokuapp.com/api/project/thhusser/Minishell)](https://github.com/JaeSeoKim/badge42)|
 
 
 </br>
