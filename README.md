@@ -13,6 +13,27 @@
 | Philosophers    |[![thhusser's 42 Philosophers Score](https://badge42.vercel.app/api/v2/cl2iulrd6005409l758woyo43/project/2362205)](https://github.com/JaeSeoKim/badge42)|
 | Cub3D           |[![thhusser's 42 Philosophers Score](https://badge42.vercel.app/api/v2/cl2iulrd6005409l758woyo43/project/2362205)](https://github.com/JaeSeoKim/badge42)|
 | MiniShell       |[![thhusser's 42 minishell Score](https://badge42.vercel.app/api/v2/cl2iulrd6005409l758woyo43/project/2451051)](https://github.com/JaeSeoKim/badge42)|
+| CPP Module 00   |[![thhusser's 42 CPP Module 00 Score](https://badge42.vercel.app/api/v2/cl2iulrd6005409l758woyo43/project/2560897)](https://github.com/JaeSeoKim/badge42)|
+| CPP Module 01   |[![thhusser's 42 CPP Module 01 Score](https://badge42.vercel.app/api/v2/cl2iulrd6005409l758woyo43/project/2565969)](https://github.com/JaeSeoKim/badge42)|
+| CPP Module 02   |[![thhusser's 42 CPP Module 02 Score](https://badge42.vercel.app/api/v2/cl2iulrd6005409l758woyo43/project/2566121)](https://github.com/JaeSeoKim/badge42)|
+| CPP Module 03   |[![thhusser's 42 CPP Module 02 Score](https://badge42.vercel.app/api/v2/cl2iulrd6005409l758woyo43/project/2566121)](https://github.com/JaeSeoKim/badge42)|
+| CPP Module 04   |[![thhusser's 42 CPP Module 04 Score](https://badge42.vercel.app/api/v2/cl2iulrd6005409l758woyo43/project/2567371)](https://github.com/JaeSeoKim/badge42)|
+| CPP Module 05   |                   |
+| CPP Module 06   |                   |
+| CPP Module 07   |                   |
+| CPP Module 08   |                   |
+
+
+</br>
+</br>
+
+| Exam            | Final Score                       |
+|---------------- | ----------------------------------|
+| Exam Rank 02    |[![thhusser's 42 Exam Rank 02 Score](https://badge42.vercel.app/api/v2/cl2iulrd6005409l758woyo43/project/2373352)](https://github.com/JaeSeoKim/badge42)|
+| Exam Rank 03    |[![thhusser's 42 Exam Rank 03 Score](https://badge42.vercel.app/api/v2/cl2iulrd6005409l758woyo43/project/2390627)](https://github.com/JaeSeoKim/badge42)|
+| Exam Rank 04    |[![thhusser's 42 Exam Rank 04 Score](https://badge42.vercel.app/api/v2/cl2iulrd6005409l758woyo43/project/2465872)](https://github.com/JaeSeoKim/badge42)|
+| Exam Rank 05    |                   |
+
 
 </br>
 </br>
