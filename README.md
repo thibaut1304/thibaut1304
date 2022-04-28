@@ -4,12 +4,12 @@
 |---------------- | ----------------------------------|
 | Libft           |[![thhusser's 42 Libft Score](https://badge42.vercel.app/api/v2/cl2iulrd6005409l758woyo43/project/2034636)](https://github.com/JaeSeoKim/badge42)|
 | Ft_printf       |[![thhusser's 42 ft_printf Score](https://badge42.vercel.app/api/v2/cl2iulrd6005409l758woyo43/project/2045651)](https://github.com/JaeSeoKim/badge42)|
-| Get_next_line   |[![thhusser's 42 ft_printf Score](https://badge42.vercel.app/api/v2/cl2iulrd6005409l758woyo43/project/2045651)](https://github.com/JaeSeoKim/badge42)|
+| Get_next_line   |[![thhusser's 42 get_next_line Score](https://badge42.vercel.app/api/v2/cl2iulrd6005409l758woyo43/project/2043175)](https://github.com/JaeSeoKim/badge42)|
 | Ft_Serveur      |[![thhusser's 42 ft_server Score](https://badge42.vercel.app/api/v2/cl2iulrd6005409l758woyo43/project/2057875)](https://github.com/JaeSeoKim/badge42)|
 | Netwhat         |[![thhusser's 42 netwhat Score](https://badge42.vercel.app/api/v2/cl2iulrd6005409l758woyo43/project/2045407)](https://github.com/JaeSeoKim/badge42)|
-| Push_swap       |[![thhusser's 42 ft_printf Score](https://badge42.vercel.app/api/v2/cl2iulrd6005409l758woyo43/project/2045651)](https://github.com/JaeSeoKim/badge42)|
+| Push_swap       |[![thhusser's 42 push_swap Score](https://badge42.vercel.app/api/v2/cl2iulrd6005409l758woyo43/project/2176951)](https://github.com/JaeSeoKim/badge42)|
 | Pipex           |[![thhusser's 42 pipex Score](https://badge42.vercel.app/api/v2/cl2iulrd6005409l758woyo43/project/2344150)](https://github.com/JaeSeoKim/badge42)|
-| So_long         |[![thhusser's 42 pipex Score](https://badge42.vercel.app/api/v2/cl2iulrd6005409l758woyo43/project/2344150)](https://github.com/JaeSeoKim/badge42)|
+| So_long         |[![thhusser's 42 so_long Score](https://badge42.vercel.app/api/v2/cl2iulrd6005409l758woyo43/project/2263175)](https://github.com/JaeSeoKim/badge42)|
 | Philosophers    |[![thhusser's 42 Philosophers Score](https://badge42.vercel.app/api/v2/cl2iulrd6005409l758woyo43/project/2362205)](https://github.com/JaeSeoKim/badge42)|
 | Cub3D           |[![thhusser's 42 cub3d Score](https://badge42.vercel.app/api/v2/cl2iulrd6005409l758woyo43/project/2059766)](https://github.com/JaeSeoKim/badge42)|
 | MiniShell       |[![thhusser's 42 minishell Score](https://badge42.vercel.app/api/v2/cl2iulrd6005409l758woyo43/project/2451051)](https://github.com/JaeSeoKim/badge42)|
