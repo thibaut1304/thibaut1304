@@ -1,5 +1,7 @@
 [![thhusser 42 stats](https://badge42.herokuapp.com/api/stats/thhusser?privacyName=true&darkmode=true)](https://github.com/JaeSeoKim/badge42)
 
+[![thhusser's 42 stats](https://badge42.vercel.app/api/v2/cl2iulrd6005409l758woyo43/stats?cursusId=21&coalitionId=12)](https://github.com/JaeSeoKim/badge42)
+
 | Project         | Final Score                       |
 |---------------- | ----------------------------------|
 | Libft           |[![thhusser 42Project Score](https://badge42.herokuapp.com/api/project/thhusser/Libft)](https://github.com/JaeSeoKim/badge42)|
