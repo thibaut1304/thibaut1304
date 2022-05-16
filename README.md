@@ -19,7 +19,7 @@
 | CPP Module 03   |[![thhusser's 42 CPP Module 02 Score](https://badge42.vercel.app/api/v2/cl2iulrd6005409l758woyo43/project/2566121)](https://github.com/JaeSeoKim/badge42)|
 | CPP Module 04   |[![thhusser's 42 CPP Module 04 Score](https://badge42.vercel.app/api/v2/cl2iulrd6005409l758woyo43/project/2567371)](https://github.com/JaeSeoKim/badge42)|
 | CPP Module 05   |[![thhusser's 42 CPP Module 05 Score](https://badge42.vercel.app/api/v2/cl2iulrd6005409l758woyo43/project/2581858)](https://github.com/JaeSeoKim/badge42)|
-| CPP Module 06   |[![thhusser's 42 CPP Module 05 Score](https://badge42.vercel.app/api/v2/cl2iulrd6005409l758woyo43/project/2581858)](https://github.com/JaeSeoKim/badge42)|
+| CPP Module 06   |[![thhusser's 42 CPP Module 06 Score](https://badge42.vercel.app/api/v2/cl2iulrd6005409l758woyo43/project/2585867)](https://github.com/JaeSeoKim/badge42)|
 | CPP Module 07   |                   |
 | CPP Module 08   |                   |
 | Inception       |                   |
