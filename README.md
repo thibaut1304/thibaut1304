@@ -24,7 +24,7 @@
 | CPP Module 08   |[![thhusser's 42 CPP Module 08 Score](https://badge42.vercel.app/api/v2/cl2iulrd6005409l758woyo43/project/2590975)](https://github.com/JaeSeoKim/badge42)|
 | Inception       |[![thhusser's 42 Inception Score](https://badge42.vercel.app/api/v2/cl2iulrd6005409l758woyo43/project/2593339)](https://github.com/JaeSeoKim/badge42)|
 | Ft_containers   |[![thhusser's 42 ft_containers Score](https://badge42.vercel.app/api/v2/cl2iulrd6005409l758woyo43/project/2610364)](https://github.com/JaeSeoKim/badge42)|
-
+| Ft_IRC          |[![thhusser's 42 ft_irc Score](https://badge42.vercel.app/api/v2/cl2iulrd6005409l758woyo43/project/2884176)](https://github.com/JaeSeoKim/badge42)|
 
 </br>
 </br>
