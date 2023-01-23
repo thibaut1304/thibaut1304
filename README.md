@@ -1,8 +1,8 @@
 [![thhusser's 42 stats](https://badge42.vercel.app/api/v2/cl2iulrd6005409l758woyo43/stats?cursusId=21&coalitionId=45)](https://github.com/JaeSeoKim/badge42)
 
-| Project         | Final Score                       |
-|---------------- | ----------------------------------|
-| Libft           |[![thhusser's 42 Libft Score](https://badge42.vercel.app/api/v2/cl2iulrd6005409l758woyo43/project/2034636)](https://github.com/JaeSeoKim/badge42)|
+| Project         | Final Score                       | Languages       |
+|---------------- | ----------------------------------|---------------- |
+| Libft           |[![thhusser's 42 Libft Score](https://badge42.vercel.app/api/v2/cl2iulrd6005409l758woyo43/project/2034636)](https://github.com/JaeSeoKim/badge42)|![image]({https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white})|
 | Ft_printf       |[![thhusser's 42 ft_printf Score](https://badge42.vercel.app/api/v2/cl2iulrd6005409l758woyo43/project/2045651)](https://github.com/JaeSeoKim/badge42)|
 | Get_next_line   |[![thhusser's 42 get_next_line Score](https://badge42.vercel.app/api/v2/cl2iulrd6005409l758woyo43/project/2043175)](https://github.com/JaeSeoKim/badge42)|
 | Ft_Serveur      |[![thhusser's 42 ft_server Score](https://badge42.vercel.app/api/v2/cl2iulrd6005409l758woyo43/project/2057875)](https://github.com/JaeSeoKim/badge42)|
