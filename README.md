@@ -3,28 +3,28 @@
 | Project         | Final Score                       | Languages       |
 |---------------- | ----------------------------------|---------------- |
 | Libft           |[![thhusser's 42 Libft Score](https://badge42.vercel.app/api/v2/cl2iulrd6005409l758woyo43/project/2034636)](https://github.com/JaeSeoKim/badge42)|![image](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)|
-| Ft_printf       |[![thhusser's 42 ft_printf Score](https://badge42.vercel.app/api/v2/cl2iulrd6005409l758woyo43/project/2045651)](https://github.com/JaeSeoKim/badge42)|
-| Get_next_line   |[![thhusser's 42 get_next_line Score](https://badge42.vercel.app/api/v2/cl2iulrd6005409l758woyo43/project/2043175)](https://github.com/JaeSeoKim/badge42)|
-| Ft_Serveur      |[![thhusser's 42 ft_server Score](https://badge42.vercel.app/api/v2/cl2iulrd6005409l758woyo43/project/2057875)](https://github.com/JaeSeoKim/badge42)|
+| Ft_printf       |[![thhusser's 42 ft_printf Score](https://badge42.vercel.app/api/v2/cl2iulrd6005409l758woyo43/project/2045651)](https://github.com/JaeSeoKim/badge42)|![image](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)|
+| Get_next_line   |[![thhusser's 42 get_next_line Score](https://badge42.vercel.app/api/v2/cl2iulrd6005409l758woyo43/project/2043175)](https://github.com/JaeSeoKim/badge42)|![image](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)|
+| Ft_Serveur      |[![thhusser's 42 ft_server Score](https://badge42.vercel.app/api/v2/cl2iulrd6005409l758woyo43/project/2057875)](https://github.com/JaeSeoKim/badge42)|![image](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)|
 | Netwhat         |[![thhusser's 42 netwhat Score](https://badge42.vercel.app/api/v2/cl2iulrd6005409l758woyo43/project/2045407)](https://github.com/JaeSeoKim/badge42)|
-| Push_swap       |[![thhusser's 42 push_swap Score](https://badge42.vercel.app/api/v2/cl2iulrd6005409l758woyo43/project/2176951)](https://github.com/JaeSeoKim/badge42)|
-| Pipex           |[![thhusser's 42 pipex Score](https://badge42.vercel.app/api/v2/cl2iulrd6005409l758woyo43/project/2344150)](https://github.com/JaeSeoKim/badge42)|
-| So_long         |[![thhusser's 42 so_long Score](https://badge42.vercel.app/api/v2/cl2iulrd6005409l758woyo43/project/2263175)](https://github.com/JaeSeoKim/badge42)|
-| Philosophers    |[![thhusser's 42 Philosophers Score](https://badge42.vercel.app/api/v2/cl2iulrd6005409l758woyo43/project/2362205)](https://github.com/JaeSeoKim/badge42)|
-| Cub3D           |[![thhusser's 42 cub3d Score](https://badge42.vercel.app/api/v2/cl2iulrd6005409l758woyo43/project/2059766)](https://github.com/JaeSeoKim/badge42)|
-| MiniShell       |[![thhusser's 42 minishell Score](https://badge42.vercel.app/api/v2/cl2iulrd6005409l758woyo43/project/2451051)](https://github.com/JaeSeoKim/badge42)|
-| CPP Module 00   |[![thhusser's 42 CPP Module 00 Score](https://badge42.vercel.app/api/v2/cl2iulrd6005409l758woyo43/project/2560897)](https://github.com/JaeSeoKim/badge42)|
-| CPP Module 01   |[![thhusser's 42 CPP Module 01 Score](https://badge42.vercel.app/api/v2/cl2iulrd6005409l758woyo43/project/2565969)](https://github.com/JaeSeoKim/badge42)|
-| CPP Module 02   |[![thhusser's 42 CPP Module 02 Score](https://badge42.vercel.app/api/v2/cl2iulrd6005409l758woyo43/project/2566121)](https://github.com/JaeSeoKim/badge42)|
-| CPP Module 03   |[![thhusser's 42 CPP Module 02 Score](https://badge42.vercel.app/api/v2/cl2iulrd6005409l758woyo43/project/2566121)](https://github.com/JaeSeoKim/badge42)|
-| CPP Module 04   |[![thhusser's 42 CPP Module 04 Score](https://badge42.vercel.app/api/v2/cl2iulrd6005409l758woyo43/project/2567371)](https://github.com/JaeSeoKim/badge42)|
-| CPP Module 05   |[![thhusser's 42 CPP Module 05 Score](https://badge42.vercel.app/api/v2/cl2iulrd6005409l758woyo43/project/2581858)](https://github.com/JaeSeoKim/badge42)|
-| CPP Module 06   |[![thhusser's 42 CPP Module 06 Score](https://badge42.vercel.app/api/v2/cl2iulrd6005409l758woyo43/project/2585867)](https://github.com/JaeSeoKim/badge42)|
-| CPP Module 07   |[![thhusser's 42 CPP Module 07 Score](https://badge42.vercel.app/api/v2/cl2iulrd6005409l758woyo43/project/2590807)](https://github.com/JaeSeoKim/badge42)|
-| CPP Module 08   |[![thhusser's 42 CPP Module 08 Score](https://badge42.vercel.app/api/v2/cl2iulrd6005409l758woyo43/project/2590975)](https://github.com/JaeSeoKim/badge42)|
-| Inception       |[![thhusser's 42 Inception Score](https://badge42.vercel.app/api/v2/cl2iulrd6005409l758woyo43/project/2593339)](https://github.com/JaeSeoKim/badge42)|
-| Ft_containers   |[![thhusser's 42 ft_containers Score](https://badge42.vercel.app/api/v2/cl2iulrd6005409l758woyo43/project/2610364)](https://github.com/JaeSeoKim/badge42)|
-| Ft_IRC          |[![thhusser's 42 ft_irc Score](https://badge42.vercel.app/api/v2/cl2iulrd6005409l758woyo43/project/2884176)](https://github.com/JaeSeoKim/badge42)|
+| Push_swap       |[![thhusser's 42 push_swap Score](https://badge42.vercel.app/api/v2/cl2iulrd6005409l758woyo43/project/2176951)](https://github.com/JaeSeoKim/badge42)|![image](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)|
+| Pipex           |[![thhusser's 42 pipex Score](https://badge42.vercel.app/api/v2/cl2iulrd6005409l758woyo43/project/2344150)](https://github.com/JaeSeoKim/badge42)|![image](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)|
+| So_long         |[![thhusser's 42 so_long Score](https://badge42.vercel.app/api/v2/cl2iulrd6005409l758woyo43/project/2263175)](https://github.com/JaeSeoKim/badge42)|![image](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)|
+| Philosophers    |[![thhusser's 42 Philosophers Score](https://badge42.vercel.app/api/v2/cl2iulrd6005409l758woyo43/project/2362205)](https://github.com/JaeSeoKim/badge42)|![image](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)|
+| Cub3D           |[![thhusser's 42 cub3d Score](https://badge42.vercel.app/api/v2/cl2iulrd6005409l758woyo43/project/2059766)](https://github.com/JaeSeoKim/badge42)|![image](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)|
+| MiniShell       |[![thhusser's 42 minishell Score](https://badge42.vercel.app/api/v2/cl2iulrd6005409l758woyo43/project/2451051)](https://github.com/JaeSeoKim/badge42)|![image](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)|
+| CPP Module 00   |[![thhusser's 42 CPP Module 00 Score](https://badge42.vercel.app/api/v2/cl2iulrd6005409l758woyo43/project/2560897)](https://github.com/JaeSeoKim/badge42)|![image](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)|
+| CPP Module 01   |[![thhusser's 42 CPP Module 01 Score](https://badge42.vercel.app/api/v2/cl2iulrd6005409l758woyo43/project/2565969)](https://github.com/JaeSeoKim/badge42)|![image](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)|
+| CPP Module 02   |[![thhusser's 42 CPP Module 02 Score](https://badge42.vercel.app/api/v2/cl2iulrd6005409l758woyo43/project/2566121)](https://github.com/JaeSeoKim/badge42)|![image](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)|
+| CPP Module 03   |[![thhusser's 42 CPP Module 02 Score](https://badge42.vercel.app/api/v2/cl2iulrd6005409l758woyo43/project/2566121)](https://github.com/JaeSeoKim/badge42)|![image](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)|
+| CPP Module 04   |[![thhusser's 42 CPP Module 04 Score](https://badge42.vercel.app/api/v2/cl2iulrd6005409l758woyo43/project/2567371)](https://github.com/JaeSeoKim/badge42)|![image](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)|
+| CPP Module 05   |[![thhusser's 42 CPP Module 05 Score](https://badge42.vercel.app/api/v2/cl2iulrd6005409l758woyo43/project/2581858)](https://github.com/JaeSeoKim/badge42)|![image](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)|
+| CPP Module 06   |[![thhusser's 42 CPP Module 06 Score](https://badge42.vercel.app/api/v2/cl2iulrd6005409l758woyo43/project/2585867)](https://github.com/JaeSeoKim/badge42)|![image](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)|
+| CPP Module 07   |[![thhusser's 42 CPP Module 07 Score](https://badge42.vercel.app/api/v2/cl2iulrd6005409l758woyo43/project/2590807)](https://github.com/JaeSeoKim/badge42)|![image](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)|
+| CPP Module 08   |[![thhusser's 42 CPP Module 08 Score](https://badge42.vercel.app/api/v2/cl2iulrd6005409l758woyo43/project/2590975)](https://github.com/JaeSeoKim/badge42)|![image](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)|
+| Inception       |[![thhusser's 42 Inception Score](https://badge42.vercel.app/api/v2/cl2iulrd6005409l758woyo43/project/2593339)](https://github.com/JaeSeoKim/badge42)|![image](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)|
+| Ft_containers   |[![thhusser's 42 ft_containers Score](https://badge42.vercel.app/api/v2/cl2iulrd6005409l758woyo43/project/2610364)](https://github.com/JaeSeoKim/badge42)|![image](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)|
+| Ft_IRC          |[![thhusser's 42 ft_irc Score](https://badge42.vercel.app/api/v2/cl2iulrd6005409l758woyo43/project/2884176)](https://github.com/JaeSeoKim/badge42)|![image](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)|
 
 </br>
 </br>
